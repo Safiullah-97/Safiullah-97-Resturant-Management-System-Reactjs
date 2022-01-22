@@ -1,0 +1,25 @@
+.bt1{
+    margin-left: 2ch;
+    color: white;
+    background-color: rgb(13, 184, 236);
+  }
+  
+  .bt2{
+  
+    margin-left: 2ch;
+    color: white;
+    background-color: rgb(236, 13, 13);
+  }
+  
+  .bt3{
+  background-color: green;
+  color: white;
+  border-radius: 6px;
+  }
+  
+  .input1{
+    width: 45%;
+  }
+  select{
+    width: 45px;
+  }

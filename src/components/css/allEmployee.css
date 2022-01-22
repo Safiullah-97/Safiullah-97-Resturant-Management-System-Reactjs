@@ -1,0 +1,161 @@
+.hov:hover{
+    background-color: lightgray;
+}
+
+
+
+.hov{
+    height: 8ch;
+
+}
+
+.card_1{
+    background-color: #F5F5F5;
+    border:'3px solid #DCDCDC';
+    margin-top: 20px;
+    margin-bottom: -2ch;
+    justify-content: space-between;
+    position: relative;
+}
+
+.Featured{
+    font-size: 16px;
+}
+
+.Featured_card{
+        margin-top: -3ch;
+        width: 140ch;
+        margin-left: -2ch;
+}
+
+.Featured_card1{
+    margin-top: -3ch;
+    width: 148ch;
+
+}
+
+.emp_label{
+    font-size: 18px;
+}
+
+.show_label{
+    margin-right:10px ;
+}
+
+.select1{
+    font-size: 15px;
+    width:55px;
+    height: 28px;
+    padding-right: 10px;
+}
+
+.margin_left{
+    margin-left: 10px;
+}
+
+.margin_left1{
+    margin-left: 580px;
+}
+
+.Card_2{
+    margin-top: 2ch;
+    padding-top: -10px;
+    display: flex;
+    background-color: #F5F5F5;
+    margin-bottom: 5ch;
+}
+
+.all_label{
+    margin-right: 110px;
+    margin-left: 12px;
+    font-size: 18px;
+
+}
+
+.a{
+    color: #DCDCDC;
+    text-decoration: none;
+
+}
+
+.no_data{
+    font-size: 23px;
+    margin-left: 23ch;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.previous_btn{
+    margin-left: 75ch;
+    width: 12ch;
+    height: 40px;
+}
+
+.next_btn{
+    width: 9ch;
+}
+
+
+/* 
+//MEDIA QURIEES// */
+
+@media screen and (max-width: 800px) {
+    .main{
+        width: 90%;
+      
+        height: 110ch;
+        margin-left: 0.1ch;
+        margin-top: 1ch;
+    }
+    .Featured_card{
+        width: 100%;
+        height: 100%;
+        display:block;
+        font-size: 2em;
+    }
+
+    .all_label{
+        display: flex;
+        width: 100%;
+        height: 100%;
+        font-size: 1.6em;
+    }
+
+.margin_left1{
+    margin-left: 1ch;
+}
+.no_data{
+    
+
+    width: 2ch;
+    font-size:1.8em;
+    display: inline;
+    margin-left: 8.2ch;
+    margin-bottom: 3ch;
+    
+}
+.hov{
+    margin-top: 7ch;
+    width: 80%;
+    height: 15%;
+}
+.emp_label{
+    margin-top: 3ch;
+}
+.Featured_lbl{
+    margin-bottom: 5ch;
+}
+.div1{
+    display: flex;
+   align-content:center;
+   float: right
+}
+.previous_btn{
+    width: 6em;
+    height: 1.4em;
+    font-size: 1.6em;
+    margin-left: -05ch;
+}
+
+}
+

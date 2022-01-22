@@ -1,0 +1,39 @@
+.main1{
+    height: 400px;
+    width: 1080px;
+    background-color: rgba(0,0,0,.03);
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+
+
+.row{
+    display: flex;
+}
+
+.rowd{
+    display: flex;
+    margin: 20px 20px;
+}
+
+.lbl{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.srch{
+    margin-left: 550px;
+}
+
+.bil{
+    margin-left: 800px;
+}
+
+.cardbody{
+    margin: 20px 40px;
+}
+h5 {
+    font-size: 1.25rem;
+}

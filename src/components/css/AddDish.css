@@ -1,0 +1,104 @@
+.center{
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 120px;
+      }
+
+.Main{
+    width: 100%;
+    margin-left: 42ch;
+}
+.Input_fields{
+    width: 80ch;
+    height: 4.6ch;
+    margin-left: 5CH;
+    border:'3px solid #DCDCDC';
+}
+
+.label_tag1{
+    font-size: 20px;
+    display: table;
+    margin-right: auto;
+
+}
+
+.modal_btn1{
+    width: 90%;
+    height: 45px;
+    font-size: 20px;
+
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Input_fields2{
+    width: 30%;
+    margin-left: 4.6ch;
+        height: 38px;
+        border:'3px solid #DCDCDC';
+}
+
+
+.Input_fields1{
+    width: 18%;
+    height: 4.6ch;
+    margin-left: 10.2ch;
+    border:'3px solid #DCDCDC';
+}
+
+.Input_fields3{
+    width: 80ch;
+    height: 4.6ch;
+    margin-left: 9.4ch;
+    border:'3px solid #DCDCDC';
+}
+
+.add_category{
+    font-size: 17px;
+    margin-left: 5ch;
+    height: 45px;
+    border-radius: 5.2px;
+    border:'3px solid #DCDCDC';
+}
+
+.add_Dish{
+    width: 14ch;
+    margin-left: 23ch;
+    height: 40px;
+    background-color: #2E8B57;
+    color: white;
+}
+
+.Input_fields5{
+    border:'3px solid #DCDCDC';
+    width: 90%;
+    height: 45px;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.Sumbtn1{
+    margin-left: 4ch;
+    width: 20ch;
+    height: 42px;
+}
+
+.adddish_label{
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.Btn_btn1{
+    width: 52ch;
+}
+
+.Btn_btn:hover{
+    background-color: grey;
+    width: 56ch;
+    color: white;
+}

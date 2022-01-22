@@ -1,0 +1,36 @@
+#components-layout-demo-top-side-2 .logo {
+    float: left;
+    width: 120px;
+    height: 100vh;
+    margin: 16px 24px 16px 0;
+    background: rgba(138, 107, 107, 0.3);
+  }
+  
+  .ant-row-rtl #components-layout-demo-top-side-2 .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+
+
+  
+  .site-layout-background {
+    background: #fff;
+  }
+
+  .header {
+    padding : 15px;
+    /* color : #fff */
+}
+
+.btn { 
+  float: right;
+}
+
+.menu {
+  height: 100vh;
+  border-right: 0;
+}
+.head-title {
+  color : #ffff
+}
+

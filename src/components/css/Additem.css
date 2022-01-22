@@ -1,0 +1,26 @@
+.gridStyle{
+    width: 55%;}
+
+    .gridStyle1{
+        width: 45%;
+    }
+
+    .btnUpload{
+    
+            background-color: whitesmoke;
+            color: black;
+    }
+
+    .NOfile{
+        margin-left: 2ch;
+        padding-top: 0.5ch;
+    }
+
+    .center1{
+        
+        margin-right: auto;
+        margin-left: 100px;
+        margin-top: 80px;
+    }
+
+    
